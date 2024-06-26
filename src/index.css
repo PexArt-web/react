@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #000000;
+  color: #fff;
+}
+.App--container{
+  margin: 50px 400px;
+  padding: 20px;
+  width: 500px;
+  text-align: center;
+  line-height: 40px;
+}
